@@ -1,3 +1,4 @@
+alert('hello');
 class Destination extends Phaser.Scene {
     constructor() {
         super('reached');
